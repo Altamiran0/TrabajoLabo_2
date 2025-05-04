@@ -1,0 +1,10 @@
+.EnvironmentVariables {
+   background-color: #eaeaea;
+   box-shadow: 0 2px 5px #c8c7c7;
+   padding: 20px 10px;
+
+   display: flex;
+   flex-wrap: nowrap;
+   justify-content: center;
+   gap: 10px;
+}
